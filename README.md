@@ -3,7 +3,7 @@ It is a assistant with the main function to automate day to day operations we do
 It is highly customizable.
 
 ## Opening Speech
-You can change the speed it says on startup
+You can change the speech it says on startup
 
 sapi.speak("The thing you want it to speak")
 
